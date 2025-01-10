@@ -1,4 +1,11 @@
 <h1>Huawei Matebook D15 AMD</h1>
+<img src="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_D_15-53010TUY/Huawei_MateBook_D_15_7.jpg">
+<img src="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_D_15-53010TUY/Huawei_MateBook_D_15_4.jpg">
+<img src="https://www.notebookcheck.net/fileadmin/Notebooks/Huawei/MateBook_D_15-53010TUY/Huawei_MateBook_D_15_5.jpg">
+<img src="https://www.notebookcheck.net/fileadmin/_processed_/0/3/csm_Huawei_MateBook_D_15_Wartung_49913b894d.jpg">
+
+- Photos courtesy of: 
+<a href="https://www.notebookcheck.net/Huawei-MateBook-D-15-Laptop-Review-Still-a-good-notebook-with-AMD.456383.0.html">NotebookCheck</a> 
 <h2>Specs: </h2>
 
 - CPU: AMD Ryzen 5 3500U
