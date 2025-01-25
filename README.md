@@ -16,7 +16,7 @@
   - Set to 1GB of VRAM
  
 - Display: 15" Integrated, IPS, 1920x1080
-- WLAN: Intel AX210 Wi-Fi 6
+- WLAN: Realtek RTL8822CE --> Intel AX210 Wi-Fi 6
 - Portage:
   - USB-C 3.2 Gen 1
   - USB-A 3.2 Gen 1
